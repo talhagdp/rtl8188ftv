@@ -26,4 +26,4 @@ make install
 # load the driver module
 modprobe rtl8188ftv
 
-echo "Completed installing RTL8188FTV drivers"
+echo "Completed installing RTL8188FTV drivers,Reboot your pc"
